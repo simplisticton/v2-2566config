@@ -1,5 +1,4 @@
 # v2-2566config
-# v0-workbench-config
 
 This is the Klipper configuration for my Voron V2.4, V2-2566.
 
