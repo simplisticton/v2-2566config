@@ -1,4 +1,7 @@
 # v2-2566config
 
-This is the configuration for my Voron V2.4 printer. Feel free to grab any of these macros for your own use, but please remember if it breaks, you get to keep the pieces.
+This is the Klipper configuration for my Voron V2.4, V2-2566.
 
+It uses my [common macros](https://github.com/simplisticton/common-macros) too, which are shared with [Workbench](https://github.com/simplisticton/v0-workbench-config), my Voron V0.
+
+Feel free to use anything you find here, but remember, if it breaks, you get to keep the pieces.
