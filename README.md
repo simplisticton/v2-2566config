@@ -8,7 +8,7 @@ Feel free to use anything you find here, but remember, if it breaks, you get to 
 
 ## Add-ons
 
-Here are links to some add-ons and mods (not exhaustive) that https://github.com/julianschill/klipper-led_effectI use with my printer:
+Here are links to some add-ons and mods (not exhaustive) that I use on my printers:
 
 - Kaiuh: https://github.com/th33xitus/kiauh
 - Klicky Probe: https://github.com/jlas1/Klicky-Probe
