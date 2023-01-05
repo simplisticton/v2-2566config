@@ -21,7 +21,7 @@ camera="auto"
 #
 # Defaults to a resolution of 640x480 px and a framerate of 10 fps
 #
-camera_usb_options="-r 640x480 -f 10"
+camera_usb_options="-r 1600x1200 -f 10"
 
 ### Additional webcam devices known to cause problems with -f
 #
@@ -55,7 +55,7 @@ camera_usb_options="-r 640x480 -f 10"
 #
 # Defaults to 10fps
 #
-#camera_raspi_options="-fps 10"
+camera_raspi_options="-r 1280x720 -fps 10"
 
 ### Configuration of camera HTTP output
 #
