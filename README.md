@@ -10,7 +10,7 @@ Feel free to use anything you find here, but remember, if it breaks, you get to 
 
 Here are links to some add-ons and mods (not exhaustive) that I use on my printers:
 
-- Kaiuh: https://github.com/th33xitus/kiauh
+- Kiauh: https://github.com/th33xitus/kiauh
 - Klicky Probe: https://github.com/jlas1/Klicky-Probe
 - Auto-Z: https://github.com/protoloft/klipper_z_calibration
 - Enclosure Lighting: https://www.thingiverse.com/thing:4933314
