@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/home/bcs/set_underglow_p3/bin/python3
 import sys
 import time
 import board
