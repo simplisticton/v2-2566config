@@ -10,6 +10,8 @@ Feel free to use anything you find here, but remember, if it breaks, you get to 
 
 Here are links to some add-ons and mods (not exhaustive) that I use on my printers:
 
+- StealthChanger: https://github.com/DraftShift/StealthChanger
+- Klipper-toolchanger-easy: https://github.com/jwellman80/klipper-toolchanger-easy
 - Voron TAP: https://github.com/VoronDesign/Voron-Tap
 - KAMP (Klipper Adaptive Meshing and Purging): https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging
 - Kiauh: https://github.com/th33xitus/kiauh
